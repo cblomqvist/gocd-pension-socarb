@@ -1,0 +1,1 @@
+export alderspensions_avgift=1000
