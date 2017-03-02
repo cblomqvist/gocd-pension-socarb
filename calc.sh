@@ -2,4 +2,4 @@
 set -e
 mkdir -p output/socarb
 inkomst=11000
-echo ${inkomst} > output/socarb/res.txt
+echo ${inkomst} > output/socarb.txt
