@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 set -e
-mkdir -p output
+mkdir -p output/socarb
 inkomst=11000
-echo ${inkomst} > output/res.txt
+echo ${inkomst} > output/socarb/res.txt
