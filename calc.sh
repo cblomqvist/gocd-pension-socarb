@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+set -e
+mkdir -p output
 inkomst=11000
-mkdir -p target
-echo ${inkomst} > target/socarb.txt
+echo ${inkomst} > output/socarb.txt
